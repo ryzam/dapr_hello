@@ -1,0 +1,9 @@
+D:\Project\dapr_tutorial\dapr_hello\dapr_hello_api\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Project\dapr_tutorial\dapr_hello\dapr_hello_api\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Project\dapr_tutorial\dapr_hello\dapr_hello_api\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Project\dapr_tutorial\dapr_hello\dapr_hello_api\obj\Debug\netcoreapp3.0\dapr_hello_api.csprojAssemblyReference.cache
+D:\Project\dapr_tutorial\dapr_hello\dapr_hello_api\obj\Debug\netcoreapp3.0\staticwebassets\dapr_hello_api.StaticWebAssets.Manifest.cache
+D:\Project\dapr_tutorial\dapr_hello\dapr_hello_api\obj\Debug\netcoreapp3.0\staticwebassets\dapr_hello_api.StaticWebAssets.xml
+D:\Project\dapr_tutorial\dapr_hello\dapr_hello_api\obj\Debug\netcoreapp3.0\dapr_hello_api.AssemblyInfoInputs.cache
+D:\Project\dapr_tutorial\dapr_hello\dapr_hello_api\obj\Debug\netcoreapp3.0\dapr_hello_api.AssemblyInfo.cs
+D:\Project\dapr_tutorial\dapr_hello\dapr_hello_api\obj\Debug\netcoreapp3.0\dapr_hello_api.RazorTargetAssemblyInfo.cache
